@@ -1,0 +1,157 @@
+<svg width="256" height="256" viewBox="0 0 256 256" version="2.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>mycircle-icon-concept-2</title>
+<desc>Created using Figma (9000)</desc>
+<g id="Canvas" transform="translate(-2507 -2983)" figma:type="canvas">
+<g id="mycircle-icon-concept-2" style="mix-blend-mode:normal;" figma:type="group">
+<mask id="mask0_alpha" mask-type="alpha">
+<g id="mask-2" style="mix-blend-mode:normal;" figma:type="group">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(2507 2983)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-39-Copy-3" style="mix-blend-mode:normal;" mask="url(#mask0_alpha)" figma:type="vector">
+<use xlink:href="#path1_fill" transform="translate(2507 3111)" fill="#ED684E" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle-39-Copy" style="mix-blend-mode:normal;" mask="url(#mask0_alpha)" figma:type="vector">
+<use xlink:href="#path1_fill" transform="translate(2635 2983)" fill="#00B7D9" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle-39-Copy-2" style="mix-blend-mode:normal;" mask="url(#mask0_alpha)" figma:type="vector">
+<use xlink:href="#path1_fill" transform="translate(2635 3111)" fill="#FECE55" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Mask" style="mix-blend-mode:normal;" mask="url(#mask0_alpha)" figma:type="vector">
+<use xlink:href="#path1_fill" transform="translate(2507 2983)" fill="#6500B9" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Fill-174" style="mix-blend-mode:normal;" mask="url(#mask0_alpha)" figma:type="vector">
+<use xlink:href="#path2_fill" transform="translate(2538.5 3136.98)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Path" style="mix-blend-mode:normal;" mask="url(#mask0_alpha)" figma:type="vector">
+<use xlink:href="#path3_fill" transform="translate(2677.5 3143)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Fill-455" style="mix-blend-mode:normal;" mask="url(#mask0_alpha)" figma:type="vector">
+<use xlink:href="#path4_fill" transform="translate(2536.5 3017)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="path2 fill" style="mix-blend-mode:normal;" mask="url(#mask0_alpha)" figma:type="vector">
+<use xlink:href="#path5_fill" transform="translate(2657.5 3012.5)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="
+M 78.9334 0
+C 51.1178 0 33.4832 0.10775 16.8146 16.7751
+C 0.105499 33.484 0 51.2031 0 78.9334
+L 0 177.067
+C 0 204.884 0.109249 222.52 16.7751 239.186
+C 33.4927 255.903 51.2043 256 78.9334 256
+L 177.067 256
+C 204.884 256 222.515 255.896 239.186 239.225
+C 255.892 222.519 256 204.796 256 177.067
+L 256 78.9334
+C 256 51.1176 255.893 33.4825 239.225 16.8146
+C 222.509 0.0979996 204.796 0 177.067 0
+L 78.9334 0
+Z"/>
+<path id="path1_fill" d="
+M 0 0
+L 128 0
+L 128 128
+L 0 128
+L 0 0
+Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="
+M 35.0226 57.5806
+C 24.9213 57.5806 16.0128 49.6774 12.4194 41.7742
+L 57.5806 41.7742
+C 54.0724 49.6774 45.2516 57.5806 35.0226 57.5806
+Z
+M 25.9677 19.1935
+C 28.4672 19.1935 30.4839 21.2168 30.4839 23.7097
+C 30.4839 26.2048 28.4672 28.2258 25.9677 28.2258
+C 23.4706 28.2258 21.4516 26.2048 21.4516 23.7097
+C 21.4516 21.2168 23.4706 19.1935 25.9677 19.1935
+Z
+M 42.9055 19.1935
+C 45.3992 19.1935 47.4194 21.2168 47.4194 23.7097
+C 47.4194 26.2048 45.3992 28.2258 42.9055 28.2258
+C 40.4141 28.2258 38.3871 26.2048 38.3871 23.7097
+C 38.3871 21.2168 40.4141 19.1935 42.9055 19.1935
+Z
+M 35.0425 0
+C 15.6925 0 0 15.67 0 35
+C 0 54.3275 15.6925 70 35.0425 70
+C 54.4 70 70 54.3275 70 35
+C 70 15.67 54.4 0 35.0425 0
+Z"/>
+<path id="path3_fill" fill-rule="evenodd" d="
+M 4.94979 61.9954
+C 4.42199 62.3318 3.82338 62.5 3.21833 62.5
+C 2.68409 62.5 2.15628 62.3706 1.67353 62.1054
+C 0.643667 61.5361 0 60.4493 0 59.2655
+L 0 3.2315
+C 0 2.04768 0.643667 0.960898 1.67353 0.3981
+C 2.70983 -0.171167 3.96498 -0.125885 4.94979 0.508072
+L 48.5196 28.5251
+C 49.4464 29.1202 50 30.1488 50 31.255
+C 50 32.3547 49.4464 33.3833 48.5196 33.9784
+L 4.94979 61.9954
+Z"/>
+<path id="path4_fill" fill-rule="evenodd" d="
+M 25.0018 0
+C 11.1911 0 0 11.1938 0 24.9991
+L 0 31.4839
+C 0 45.2893 11.1911 56.25 25.0018 56.25
+L 26.7857 56.25
+L 26.7857 75
+L 44.2098 56.25
+L 50.0009 56.25
+C 63.8089 56.25 75 45.2893 75 31.4839
+L 75 24.9991
+C 75 11.1938 64.2536 0 50.4482 0
+L 25.0018 0
+Z"/>
+<path id="path5_fill" fill-rule="evenodd" d="
+M 75 37.5
+C 75 58.2107 58.2107 75 37.5 75
+C 16.7893 75 0 58.2107 0 37.5
+C 0 16.7893 16.7893 0 37.5 0
+C 58.2107 0 75 16.7893 75 37.5
+Z
+M 24.7751 52.5127
+C 28.4258 52.5127 31.1288 51.7404 32.8839 49.9853
+C 34.4636 48.4056 35.2709 45.9484 35.2709 42.5784
+L 35.2709 30.4678
+C 35.2709 28.9935 34.0774 27.8 32.6031 27.8
+C 31.1287 27.8 29.9353 28.9935 29.9353 30.4327
+L 29.9353 30.4678
+C 28.496 28.8882 26.7759 27.6596 23.8624 27.6596
+C 19.5446 27.6596 15.5078 30.8188 15.5078 36.4354
+L 15.5078 36.5056
+C 15.5078 42.087 19.4745 45.2814 23.8624 45.2814
+C 26.7057 45.2814 28.4258 44.123 30.0054 42.2275
+L 30.0054 43.1401
+C 30.0054 46.51 28.2854 48.2652 24.6346 48.2652
+C 22.6338 48.2652 20.9839 47.844 19.4394 47.1419
+C 19.1937 47.0366 18.9128 46.9663 18.5618 46.9663
+C 17.3683 46.9663 16.3854 47.9493 16.3854 49.1428
+C 16.3854 50.1257 16.9821 50.8628 17.8948 51.2139
+C 20.1063 52.0914 22.2827 52.5127 24.7751 52.5127
+Z
+M 49.2772 47.2472
+C 55.1394 47.2472 59.492 42.8593 59.492 37.4534
+L 59.492 37.3832
+C 59.492 31.9773 55.1745 27.6596 49.3474 27.6596
+C 43.4851 27.6596 39.1323 32.0475 39.1323 37.4534
+L 39.1323 37.5236
+C 39.1323 42.9295 43.45 47.2472 49.2772 47.2472
+Z
+M 20.8435 36.5056
+C 20.8435 39.1032 22.8093 40.8584 25.4069 40.8584
+C 28.0046 40.8584 30.0054 39.0681 30.0054 36.5056
+L 30.0054 36.4354
+C 30.0054 33.8729 28.0046 32.0826 25.4069 32.0826
+C 22.8093 32.0826 20.8435 33.8729 20.8435 36.4354
+L 20.8435 36.5056
+Z"/>
+</defs>
+</svg>
