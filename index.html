@@ -1,0 +1,68 @@
+
+<!-- saved from url=(0019)http://192.168.0.1/ -->
+<html><script data-x-lastpass="">(function(){var c=0;if("undefined"!==typeof CustomEvent&&"function"===typeof window.dispatchEvent){var a=function(a){try{if("object"===typeof a&&(a=JSON.stringify(a)),"string"===typeof a)return window.dispatchEvent(new CustomEvent("lprequeststart",{detail:{data:a,requestID:++c}})),c}catch(f){}},b=function(a){try{window.dispatchEvent(new CustomEvent("lprequestend",{detail:a}))}catch(f){}};"undefined"!==typeof XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.send&&(XMLHttpRequest.prototype.send=
+function(c){return function(f){var d=this,e=a(f);e&&d.addEventListener("loadend",function(){b({requestID:e,statusCode:d.status})});return c.apply(d,arguments)}}(XMLHttpRequest.prototype.send));"function"===typeof fetch&&(fetch=function(c){return function(f,d){var e=a(d),g=c.apply(this,arguments);if(e){var h=function(a){b({requestID:e,statusCode:a&&a.status})};g.then(h)["catch"](h)}return g}}(fetch))}})();
+(function(){if("undefined"!==typeof CustomEvent){var c=function(a){if(a.lpsubmit)return a;var b=function(){try{this.dispatchEvent(new CustomEvent("lpsubmit"))}catch(k){}return a.apply(this,arguments)};b.lpsubmit=!0;return b};window.addEventListener("DOMContentLoaded",function(){if(document&&document.forms&&0<document.forms.length)for(var a=0;a<document.forms.length;++a)document.forms[a].submit=c(document.forms[a].submit)},!0);document.createElement=function(a){return function(){var b=a.apply(this,
+arguments);b&&"FORM"===b.nodeName&&b.submit&&(b.submit=c(b.submit));return b}}(document.createElement)}})();
+</script><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><title>Access Control</title><style type="text/css">@media print{.lpiframeoverlay{display:none}}</style></head>
+<body text="#ffffff" bgcolor="#000000">
+<p><br><br><br></p>
+<table height="1" width="100%" bgcolor="#ff0000" border="0">
+<tbody><tr><td>&nbsp;</td></tr></tbody></table><p><br></p>
+<p align="center"><font size="5">This device is blocked by Access Control in the router.</font></p>
+<p><br></p><table height="1" width="100%" bgcolor="#ff0000" border="0">
+<tbody><tr>
+<td>&nbsp;</td></tr></tbody></table>
+<p align="right"><a href="http://www.netgear.com/" style="text-decoration:none">
+<font size="4" color="white" face="Arial"><b>NETGEAR</b></font></a>
+</p>
+<script>try{
+function lpshowmenudiv(id){ 
+  closelpmenus(id); 
+  var div = document.getElementById('lppopup'+id); 
+  var btn = document.getElementById('lp'+id); 
+  if(btn && div){ 
+    var btnstyle = window.getComputedStyle(btn, null); 
+    var divstyle = window.getComputedStyle(div, null); 
+    var posx = btn.offsetLeft; 
+    posx -= 80; 
+    var divwidth = parseInt(divstyle.getPropertyValue('width')); 
+    if(posx + divwidth > window.innerWidth - 25){ 
+      posx -= ((posx + divwidth) - window.innerWidth + 25); 
+    } 
+    div.style.left = posx + "px"; 
+    div.style.top = (btn.offsetTop + parseInt(btnstyle.getPropertyValue('height'))) + "px"; 
+    
+    if(div.style.display=='block'){div.style.display = 'none'; if(typeof(slideup)=='function'){slideup();} }
+    else div.style.display = 'block'; 
+    
+  } 
+}
+function closelpmenus(id){ 
+  if(typeof(lpgblmenus)!='undefined'){ 
+    for(var i=0; i < lpgblmenus.length; i++){ 
+      if((id==null || lpgblmenus[i]!='lppopup'+id) && document.getElementById(lpgblmenus[i])) 
+        document.getElementById(lpgblmenus[i]).style.display = 'none'; 
+    } 
+  }
+} 
+var lpcustomEvent = document.createEvent('Event'); 
+lpcustomEvent.initEvent('lpCustomEventMenu', true, true); 
+}catch(e){}</script><script>try{document.addEventListener('mouseup', function(e){ if(typeof(closelpmenus)=='function'){closelpmenus();}}, false)}catch(e){}</script></body><style id="stylish-7" class="stylish" type="text/css">::-webkit-scrollbar{
+	width: 10px!important;
+	height: 10px!important;
+}
+::-webkit-scrollbar-thumb{
+	background-color: #383838!important;
+	border: 2px solid #484848!important;
+	border-radius: 100px!important;
+}
+::-webkit-scrollbar-track{
+	background-color: transparent!important;
+}
+::-webkit-scrollbar-thumb:hover{
+	background: #282828!important;
+}
+::-webkit-scrollbar-thumb:active{
+	background: #181818!important;
+}</style></html>
